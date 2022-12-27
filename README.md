@@ -1,1 +1,2 @@
-# sorting-visualizer
+# Sorting Visualizer Project
+ Project 3
